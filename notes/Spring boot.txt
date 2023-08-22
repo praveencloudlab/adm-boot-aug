@@ -1,0 +1,85 @@
+Spring boot
+==============
+Java design pattern : SOLID
+ singleton
+ prototype
+
+
+
+
+1.Java 8/11 : 30 
+2.Spring /boot basics
+	- core concepts
+	- data jpa
+	- web application basics
+		request,response, web server, app server
+	- web mvc basics
+	- rest api basics
+
+==================================
+
+Boot basics
+	-> autowire
+	-> data jpa / DSL / Query
+	-> REST API -> Royfielding
+		CRUD -> GET/POST/PUT/DELETE/PATCH
+	========================
+	Microservices basics
+	1.microservice intro
+	2.microservices communication
+		-> rabbit MQ 
+		-> Apache Kafka
+	===========================
+	Microservices cloud
+	-> config server and client
+	-> feign client declarative principle
+	-> Ribbon (load lancencing - older)
+	-> Erueka Service Discovery 
+	-> Routings - API Gateway
+	-> Fallback operations : 
+	============================
+
+    
+    Software
+    -------------
+    JDK 17
+    MYSQL8
+    Eclipse IDE/IntelliJ Idea/STS
+    Rabbit MQ
+    Apache Kafka
+    Postman
+    ================================
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
