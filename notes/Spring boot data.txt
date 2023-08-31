@@ -1,0 +1,56 @@
+Spring boot data 
+=====================
+1.JDBC template
+2.ORM
+
+in order to establish connection with any database, spring boot uses data sources : 5 types
+
+1.Hikari CP - default
+2.Tomcat CP
+3.DBCP2
+4.Generic CP
+5.OracleU CP
+
+=======================
+
+note: all above defined data sources loaded and configured by spring boot
+
+
+
+ORM
+=======
+MYSQL,Redis and MongoDB
+JPA with Hibernate
+
+
+
+Spring boot data jpa
+=======================
+
+Repository - marker interface
+PagingAndSortingRepository extends Repository :: 2
+ListPagingAndSortingRepository extends PagingAndSortingRepository :: 1 
+QueryByExampleExecutor :: 7
+CrudRepository extends Repository :: 12
+ListCrudRepository extends CrudRepository :: 3
+JpaRepository extends ListCrudRepository,ListCrudRepository,ListPagingAndSortingRepository,QueryByExampleExecutor :: 12  
+
+Total : 37 methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
