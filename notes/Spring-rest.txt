@@ -1,0 +1,49 @@
+Spring boot web
+===================
+1.web mvc
+2.rest application
+
+1.web mvc
+-----------
+View layer is view template: JSP,thymeleaf
+Middleware/server :spring boot
+View : Spring boot
+
+2.rest application
+-------------------
+view can be any client application
+Middleware/server : spring boot, any technology server
+View: javascript,jquery,angular,react js
+
+
+Web services
+===============
+Dashboard : dashboard page from all technologies
+
+2 types
+1.SOAP
+2.REST
+
+JAX-WS : 
+	-axis
+JAX-RS : 
+	- resteasy
+	- apache cxf
+	- Jersy
+
+ Spring-rest api :
+ 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
